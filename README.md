@@ -4,7 +4,7 @@
 
 - Install TMUX
 ```
-brew install tmux
+nix-env -i tmux
 ```
 - Install TPM
 ```
